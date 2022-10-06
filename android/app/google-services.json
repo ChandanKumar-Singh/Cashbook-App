@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259945473732",
+    "firebase_url": "https://my-cashbook-b853c-default-rtdb.firebaseio.com",
+    "project_id": "my-cashbook-b853c",
+    "storage_bucket": "my-cashbook-b853c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259945473732:android:4a9bf2318cf05fa4b84b91",
+        "android_client_info": {
+          "package_name": "com.tds.my_cashbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259945473732-i9s7rb55jt6u404khrdmi1hlco6hsj53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tds.my_cashbook",
+            "certificate_hash": "2b4bfdc15228854b2ccf874a3022dc04e446be94"
+          }
+        },
+        {
+          "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnbnkCfNnL1cHE0f4ILkBypL_XOD_Qt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
